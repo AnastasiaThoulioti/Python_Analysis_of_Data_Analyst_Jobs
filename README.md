@@ -91,7 +91,10 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Roles](Project/images/skill_demand_all_data_roles.png)*Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
+![Visualization of Top Skills for Data Roles](Project/images/skill_demand_all_data_roles.png)
+
+
+*Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
 ### Insights
 
@@ -124,6 +127,8 @@ plt.show()
 ### Results
 
 ![Trending Top Skills for Data Analysts in Greece](Project/images/Skill_Trend_DA.png) 
+
+
 *Graph visualizing the trending top skillss for data analysts in Greece in 2025.*
 
 
@@ -163,6 +168,8 @@ plt.show()
 #### Results
 
 ![Salary Distributions of Data Jobs in Greece](Project/images/Salary_Boxplot.png)
+
+
 *Box plot visualizing the salary distributions for the top 6 data jobs titles.*
 
 #### Insights
@@ -199,6 +206,8 @@ plt.show()
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in Greece:
 
 ![The Highest Paid & Most In-Demand Skills for Data Analysts in Greece](Project/images/Highest_paid_and_most_in_demand_skills_for_data_analysts.png)
+
+
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in Greece.*
 
 #### Insights
@@ -229,6 +238,8 @@ plt.show()
 #### Results
 
 ![Most Optimal Skills for Data Analysts in Greece](Project/images/Most_Optimal_Skills_for_Data_Analyst_in_Greece.png)
+
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in Greece.*
 
 #### Insights
@@ -269,7 +280,10 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in Greece](Project/images/Most_Optimal_Skills_for_Data_Analysts_in_Greece_with_coloring_by_technology.png) *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in Greece with color labels for technology.*
+![Most Optimal Skills for Data Analysts in Greece](Project/images/Most_Optimal_Skills_for_Data_Analysts_in_Greece_with_coloring_by_technology.png)
+
+
+*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in Greece with color labels for technology.*
 
 #### Insights
 -The scatter plot shows that most of the `programming` skills (colored blue) tend to cluster at higher salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.
